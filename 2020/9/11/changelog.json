@@ -1,0 +1,80 @@
+{
+  "content": "\n**Ahoy Sailors, here is the last week of changes. 9/7 - 9/11\nWe were happy with the release of the lobby and pleased with the feedback received overall. **",
+  "embeds": [
+    {
+      "color": 10696760,
+      "image": {
+        "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/changeLogs.png"
+      }
+    },
+    {
+      "color": 10696760,
+      "image": {
+        "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/announcements.png"
+      }
+    },
+    {
+      "title": "Announcements:",
+      "color": 31136,
+      "fields": [
+        {
+          "name": "Prisons \"weekend\" wrap up",
+          "value": "- Thank you for joining us for the free prisons weekend"
+        }
+      ],
+      "thumbnail": {
+        "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/icon.png"
+      }
+    },
+    {
+      "color": 10696760,
+      "image": {
+        "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/fixes.png"
+      }
+    },
+    {
+      "title": "Fixes:  ",
+      "color": 31136,
+      "fields": [
+        {
+          "name": "Lifeboat City ",
+          "value": "- Removed buggy interactions between busses and mounts to prevent flying bug"
+        },
+        {
+          "name": "Lobby",
+          "value": "- Cleaned up floating blocks \n- Filled obvious holes"
+        },
+        {
+          "name": "CTF ",
+          "value": "- Pulled next match npc out of the ground and put him back on his pedestal"
+        },
+        {
+          "name": "Commands",
+          "value": "- Adding smart filtering to user commands to reduce latency and shenanigans"
+        }
+      ],
+      "thumbnail": {
+        "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/icon.png"
+      }
+    },
+    {
+      "color": 10696760,
+      "image": {
+        "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/dlc.png"
+      }
+    },
+    {
+      "title": "New DLC",
+      "description": "**Coming soon:** \nBike parkour\nRocketts 5 \n\n**Buried City** \n[__Buried City store page__](https://www.minecraft.net/en-us/pdp?id=8555d4ba-567b-4c76-8194-22d7939d2d0c)\n[__Buried City trailer__](https://youtu.be/-_PCoyjGRhA)",
+      "color": 31136,
+      "image": {
+        "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/2020/9/11/2020/9/11/assets/recentDurables.png"
+      },
+      "thumbnail": {
+        "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/icon.png"
+      }
+    }
+  ],
+  "username": "Mechanism",
+  "avatar_url": "https://cdn.discordapp.com/avatars/737696744145682513/51604935f0763828a5e71b4086d0c7d2.png"
+}
