@@ -1,0 +1,68 @@
+{
+    "content": "\n**Ahoy Sailors, here are the recent server changes. 9/14 - 10/9 **",
+    "embeds": [
+      {
+        "color": 10696760,
+        "image": {
+          "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/changeLogs.png"
+        }
+      },
+      {
+        "color": 10696760,
+        "image": {
+          "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/announcements.png"
+        }
+      },
+      {
+        "title": "Announcements:",
+        "color": 31136,
+        "fields": [
+          {
+            "name": "Spooktober is upon us! ",
+            "value": "- Keep an eye out for our new holiday content."
+          }
+        ],
+        "thumbnail": {
+          "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/icon.png"
+        }
+      },
+      {
+        "color": 10696760,
+        "image": {
+          "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/fixes.png"
+        }
+      },
+      {
+        "title": "Fixes:  ",
+        "color": 31136,
+        "fields": [
+          {
+            "name": "Crafting fixes",
+            "value": "- Introduced patch to increase chance of successfully crafting something while the issue is continued to be looked at for game modes that utilize crafting.\n\n\n\n"
+          }
+        ],
+        "thumbnail": {
+          "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/icon.png"
+        }
+      },
+      {
+        "color": 10696760,
+        "image": {
+          "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/dlc.png"
+        }
+      },
+      {
+        "title": "New DLC",
+        "description": "**Coming soon:** \nMagic Sky Block\nScary Dolls\n\nRecent releases: \n**Rocketts 5**\n[__Rocketts 5__](https://www.minecraft.net/en-us/pdp?id=d5400a7f-3a0c-4153-95c9-b0e948fa2117)\n\n**PLANET OF GORILLAS**\n[__PLANET OF GORILLAS__](https://www.minecraft.net/en-us/pdp?id=acc9d75c-a490-4e83-90c5-a8381a15b9c0)\n\n",
+        "color": 31136,
+        "image": {
+          "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/2020-10-9/2020/10/9/assets/recentDurables.png"
+        },
+        "thumbnail": {
+          "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/icon.png"
+        }
+      }
+    ],
+    "username": "Mechanism",
+    "avatar_url": "https://cdn.discordapp.com/avatars/737696744145682513/51604935f0763828a5e71b4086d0c7d2.png"
+  }
