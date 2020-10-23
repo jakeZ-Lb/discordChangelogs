@@ -1,0 +1,76 @@
+{
+    "content": "\n**Ahoy Sailors, here are the the last few weeks of changes. 10/12 - 10/23\n",
+    "embeds": [
+      {
+        "color": 10696760,
+        "image": {
+          "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/changeLogs.png"
+        }
+      },
+      {
+        "color": 10696760,
+        "image": {
+          "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/announcements.png"
+        }
+      },
+      {
+        "title": "Announcements:",
+        "color": 31136,
+        "fields": [
+          {
+            "name": "Spooktober updates",
+            "value": "- We are pleased to have released our Halloween themed lobby and content for this season. Hope you are enjoying the new view!\n- Next week we have a special surprise  coming out so watch for updates towards the end of the week."
+          },
+          {
+            "name": "New Kim Features",
+            "value": "- Flip a coin \"Flip a coin\"\n- Rock paper scissors \"Lets play rock paper scissors\"\n- Learn what server you are on \"What server am I on / what server is this\"\n- Working on better and smarter responses. \n- Less generalized responses"
+          }
+        ],
+        "thumbnail": {
+          "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/icon.png"
+        }
+      },
+      {
+        "color": 10696760,
+        "image": {
+          "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/fixes.png"
+        }
+      },
+      {
+        "title": "Fixes:  ",
+        "color": 31136,
+        "fields": [
+          {
+            "name": "Chest dupe fix",
+            "value": "- Removed the ability to duplicate items using the chest breaking method\n"
+          },
+          {
+            "name": "Bedwars",
+            "value": "- Fixed blue bed in bedwars desert map."
+          }
+        ],
+        "thumbnail": {
+          "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/icon.png"
+        }
+      },
+      {
+        "color": 10696760,
+        "image": {
+          "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/dlc.png"
+        }
+      },
+      {
+        "title": "New DLC",
+        "description": "**Gross Food**\n[__Gross Food store page__](https://www.minecraft.net/en-us/pdp?id=2968d883-d7c9-4dc7-b46a-3d71a618a011)\n\n**Grand Prix** \n[__Grad prix store page__](https://www.minecraft.net/en-us/pdp?id=cfd34c11-6298-4afe-a41d-2f69589faa14)",
+        "color": 31136,
+        "image": {
+          "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/2020/10/23/2020/10/23/image%20(8).png"
+        },
+        "thumbnail": {
+          "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/icon.png"
+        }
+      }
+    ],
+    "username": "Mechanism",
+    "avatar_url": "https://cdn.discordapp.com/avatars/737696744145682513/51604935f0763828a5e71b4086d0c7d2.png"
+  }
