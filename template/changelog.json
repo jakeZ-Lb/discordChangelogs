@@ -1,0 +1,141 @@
+{
+    "content": "\n**Intro line 1  0/00 - 0/00\nIntro line 2. **",
+    "embeds": [
+      {
+        "color": 10696760,
+        "image": {
+          "url": "https://raw.githubusercontent.com/jakeZ-Lb/discordChangelogs/master/assets/changeLogs.png"
+        }
+      },
+      {
+        "color": 10696760,
+        "image": {
+          "url": "https://raw.githubusercontent.com/jakeZ-Lb/discordChangelogs/master/assets/announcements.png"
+        }
+      },
+      {
+        "title": "Announcements:",
+        "color": 31136,
+        "fields": [
+          {
+            "name": "Field",
+            "value": "Description"
+          },
+          {
+            "name": "Field",
+            "value": "Description"
+          },
+          {
+            "name": "Field",
+            "value": "Description"
+          },
+          {
+            "name": "Field",
+            "value": "Description"
+          },
+          {
+            "name": "Field",
+            "value": "Description"
+          }
+        ],
+        "thumbnail": {
+          "url": "https://raw.githubusercontent.com/jakeZ-Lb/discordChangelogs/master/assets/icon.png"
+        }
+      },
+      {
+        "color": 10696760,
+        "image": {
+          "url": "https://raw.githubusercontent.com/jakeZ-Lb/discordChangelogs/master/assets/newDevelopment.png"
+        }
+      },
+      {
+        "title": "Development:",
+        "color": 31136,
+        "fields": [
+          {
+            "name": "Field",
+            "value": "Description"
+          },
+          {
+            "name": "Field",
+            "value": "Description"
+          },
+          {
+            "name": "Field",
+            "value": "Description"
+          },
+          {
+            "name": "Field",
+            "value": "Description"
+          },
+          {
+            "name": "Field",
+            "value": "Description"
+          }
+        ],
+        "thumbnail": {
+          "url": "https://raw.githubusercontent.com/jakeZ-Lb/discordChangelogs/master/assets/icon.png"
+        }
+      },
+      {
+        "color": 10696760,
+        "image": {
+          "url": "https://raw.githubusercontent.com/jakeZ-Lb/discordChangelogs/master/assets/fixes.png"
+        }
+      },
+      {
+        "title": "Fixes:  ",
+        "color": 31136,
+        "fields": [
+          {
+            "name": "Field",
+            "value": "Description"
+          },
+          {
+            "name": "Field",
+            "value": "Description"
+          },
+          {
+            "name": "Field",
+            "value": "Description"
+          },
+          {
+            "name": "Field",
+            "value": "Description"
+          },
+          {
+            "name": "Field",
+            "value": "Description"
+          }
+        ],
+        "thumbnail": {
+          "url": "https://raw.githubusercontent.com/jakeZ-Lb/discordChangelogs/master/assets/icon.png"
+        }
+      },
+      {
+        "color": 10696760,
+        "image": {
+          "url": "https://raw.githubusercontent.com/jakeZ-Lb/discordChangelogs/master/assets/dlc.png"
+        }
+      },
+      {
+        "title": "New DLC",
+        "description": "**Coming soon:**",
+        "color": 31136,
+        "image": {
+          "url": "https://raw.githubusercontent.com/jakeZ-Lb/discordChangelogs/2020/9/4/2020/9/4/assets/recentDurables.png"
+        },
+        "fields": [
+          {
+            "name": "Dlc name",
+            "value": "[__Dlc name with lifeboat map url from https://www.minecraft.net/en-us/creator?name=lifeboat__](https://www.minecraft.net/en-us/pdp?id=f95404cf-147e-4155-84a8-5d91fc9c2fae)"
+          }
+        ],
+        "thumbnail": {
+          "url": "https://raw.githubusercontent.com/jakeZ-Lb/discordChangelogs/master/assets/icon.png"
+        }
+      }
+    ],
+    "username": "Mechanism",
+    "avatar_url": "https://cdn.discordapp.com/avatars/737696744145682513/51604935f0763828a5e71b4086d0c7d2.png"
+  }
