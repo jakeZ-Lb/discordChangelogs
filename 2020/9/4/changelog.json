@@ -1,0 +1,103 @@
+{
+  "content": "\n**Ahoy Sailors, here are the the last few weeks of changes. 8/24 - 9/4\nFuture postings will be more regular to keep you informed of all the different facets of the server. **",
+  "embeds": [
+    {
+      "color": 10696760,
+      "image": {
+        "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/changeLogs.png"
+      }
+    },
+    {
+      "color": 10696760,
+      "image": {
+        "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/announcements.png"
+      }
+    },
+    {
+      "title": "Announcements:",
+      "color": 31136,
+      "fields": [
+        {
+          "name": "Free prisons weekend",
+          "value": "- 9/4 to 9/6 take advantage of our VIP exclusive game mode!"
+        }
+      ],
+      "thumbnail": {
+        "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/icon.png"
+      }
+    },
+    {
+      "color": 10696760,
+      "image": {
+        "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/newDevelopment.png"
+      }
+    },
+    {
+      "title": "Development:",
+      "color": 31136,
+      "fields": [
+        {
+          "name": "New Main Lobby",
+          "value": "- Come experience our new main Dragon Lobby"
+        },
+        {
+          "name": "New Game Maps",
+          "value": "- Two new survival multiplayer maps\n\n**New Skywars Lucky Block duos map with lucky block updates:**\n  -  - Western\n  -  - Heaven\n\n**New Skywars Lucky Block quads map:**\n  -  - Site\n  -  - Fantasy\n  -  - Fairytail"
+        },
+        {
+          "name": "New waiting lobbys",
+          "value": "- Capture the flag\n- Zombie Apocalypse\n- Skywars\n- Bedwars"
+        },
+        {
+          "name": "New in game text",
+          "value": "- New flavor text for lobby"
+        }
+      ],
+      "thumbnail": {
+        "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/icon.png"
+      }
+    },
+    {
+      "color": 10696760,
+      "image": {
+        "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/fixes.png"
+      }
+    },
+    {
+      "title": "Fixes:  ",
+      "color": 31136,
+      "fields": [
+        {
+          "name": "Changes to the cactus meta",
+          "value": "- Made the pop off trajectory of cactus more consistent\n- Cactus growth timing made more random\n- Improved cactus farm performance \n"
+        },
+        {
+          "name": "Enchants disable ",
+          "value": "- Disabled enchants for survival \n- Removed enchanting table from prisons"
+        }
+      ],
+      "thumbnail": {
+        "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/icon.png"
+      }
+    },
+    {
+      "color": 10696760,
+      "image": {
+        "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/dlc.png"
+      }
+    },
+    {
+      "title": "New DLC",
+      "description": "**Coming soon:** \nBike parkour\n\n**Fix it up**\n[__Fix it up store page__](https://www.minecraft.net/en-us/pdp?id=f95404cf-147e-4155-84a8-5d91fc9c2fae)\n\n**Rockett Adventures 4 Furniture attacks** \n[__Rockett Adventures 4 store page__](https://www.minecraft.net/en-us/pdp?id=1547360f-2cbf-4ad3-8ae1-61d68e8d7931)\n\n**Street Racer** \n[__Street Racer store page__](https://www.minecraft.net/en-us/pdp?id=89d87d19-9342-42af-a505-e974f6413546)\n\n**Mutants and Zombies** \n[__Mutants and Zombies store page__](https://www.minecraft.net/en-us/pdp?id=98ce2529-23fe-43cc-88b3-5837d6d14d52)",
+      "color": 31136,
+      "image": {
+        "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/2020/9/4/2020/9/4/assets/recentDurables.png"
+      },
+      "thumbnail": {
+        "url": "https://raw.githubusercontent.com/jzukauskalbsg/discordChangelogs/master/assets/icon.png"
+      }
+    }
+  ],
+  "username": "Mechanism",
+  "avatar_url": "https://cdn.discordapp.com/avatars/737696744145682513/51604935f0763828a5e71b4086d0c7d2.png"
+}
